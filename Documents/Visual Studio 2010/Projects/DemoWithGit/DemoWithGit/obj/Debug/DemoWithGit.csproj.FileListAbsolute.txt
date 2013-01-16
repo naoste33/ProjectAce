@@ -1,0 +1,7 @@
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit\bin\DemoWithGit.dll
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit\bin\DemoWithGit.pdb
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit\bin\EntityFramework.dll
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit\bin\EntityFramework.xml
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit\obj\Debug\ResolveAssemblyReference.cache
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit\obj\Debug\DemoWithGit.dll
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit\obj\Debug\DemoWithGit.pdb

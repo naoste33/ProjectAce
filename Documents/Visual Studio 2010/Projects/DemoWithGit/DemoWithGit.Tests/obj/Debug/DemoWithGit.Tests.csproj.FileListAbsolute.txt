@@ -1,0 +1,8 @@
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit.Tests\bin\Debug\DemoWithGit.Tests.dll.config
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit.Tests\bin\Debug\DemoWithGit.Tests.dll
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit.Tests\bin\Debug\DemoWithGit.Tests.pdb
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit.Tests\bin\Debug\DemoWithGit.dll
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit.Tests\bin\Debug\DemoWithGit.pdb
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit.Tests\obj\Debug\DemoWithGit.Tests.dll
+c:\users\naoya\documents\visual studio 2010\Projects\DemoWithGit\DemoWithGit.Tests\obj\Debug\DemoWithGit.Tests.pdb
